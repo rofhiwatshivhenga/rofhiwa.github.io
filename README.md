@@ -1,5 +1,5 @@
 # rofhiwa.github.io
-My Project
+AI-Powered Chatbot
 
 Step 1: Set Up Your Project
 First, create a new directory for your project and initialize it with npm.
