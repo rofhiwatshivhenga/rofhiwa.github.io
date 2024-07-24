@@ -31,4 +31,4 @@ Copy code
 node server.js
 
 Step 6: Access the Chatbot
-Open your browser and go to http://localhost:3000. You should see the chat interface, and you can interact with the AI-powered chatbot.
+Open your browser and go to http://localhost:3000. You should see the chat interface, and you can interact with the AI-powered chatbot. 
