@@ -1,0 +1,22 @@
+{
+  "name": "rofhiwa.github.io",
+  "version": "1.0.0",
+  "description": "AI-Powered Chatbot",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@huggingface/inference": "^2.8.0",
+    "@tensorflow/tfjs-node": "^2.8.6",
+    "body-parser": "^1.20.2",
+    "dialogflow": "^1.2.0",
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {}
+}
