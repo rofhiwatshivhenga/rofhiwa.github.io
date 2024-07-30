@@ -3,14 +3,14 @@
 ## Step 1: Set Up Your Project
 
 First, create a new directory for your project and initialize it with npm.
-    ```bash
+    
      cd backend
 
 ## Step 2: Install Dependencies
 
 Install the necessary dependencies.
 
-     ```bash
+     
     npm install express body-parser @tensorflow/tfjs-node
 
 ## Step 3: Create the Express Server
@@ -25,7 +25,7 @@ Create an index.html file to interact with the chatbot.
 
 Start your Express server.
 
-    ```bash
+    
     node server.js
 
 ## Step 6: Access the Chatbot
