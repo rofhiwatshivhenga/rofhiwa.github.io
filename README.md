@@ -3,18 +3,15 @@
 ## Step 1: Set Up Your Project
 
 First, create a new directory for your project and initialize it with npm.
-
-``bash
-mkdir ai-chatbot
-cd ai-chatbot
-npm init -y
+    ```bash
+     cd backend
 
 ## Step 2: Install Dependencies
 
 Install the necessary dependencies.
 
-``bash
-npm install express body-parser @tensorflow/tfjs-node
+     ```bash
+    npm install express body-parser @tensorflow/tfjs-node
 
 ## Step 3: Create the Express Server
 
@@ -28,9 +25,10 @@ Create an index.html file to interact with the chatbot.
 
 Start your Express server.
 
-``bash
-node server.js
+    ```bash
+    node server.js
 
 ## Step 6: Access the Chatbot
 
-Open your browser and go to http://localhost:3000. You should see the chat interface, and you can interact with the AI-powered chatbot. 
+Open your browser and go to http://localhost:3000. You should see the chat interface, and you can interact with the AI-powered chatbot.
+
